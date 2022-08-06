@@ -16,7 +16,7 @@ Create a source dir and clone the repository
 
 ```bash
 mkdir src && cd src
-git clone https://github.com/thalesbruno/django_bootstrap .
+git clone https://github.com/vivekmu/django_bootstrap-.git
 ```
 
 Install the dependencies
